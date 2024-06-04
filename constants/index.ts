@@ -29,7 +29,7 @@ export const SUBMISSION_LINK = "TBA";
 export const KEY_DATES_TITLE = "Key Dates";
 export const KEY_DATES_WORKSHOP_PAPER_SUBMISSION_DUE_DATE_CONTENT = "Workshop Paper Submission Due Date: ";
 export const KEY_DATES_NOTIFICATION_OF_PAPER_ACCEPTANCE_CONTENT = "Notification of Paper Acceptance: ";
-export const NIPS_24_WORKSHOP_DATE_CONTENT = "NeurIPS 2024 Workshops: ";
+export const NIPS_24_WORKSHOP_DATE_CONTENT = "2024 Workshops: ";
 
 export const WORKSHOP_PAPER_SUBMISSION_DUE_DATE = "TBA";
 export const NOTIFICATION_OF_PAPER_ACCEPTANCE = "TBA";
