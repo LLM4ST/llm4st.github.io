@@ -1,5 +1,5 @@
 
-export const HERO_TITLE = "NeurIPS 2024 WORKSHOP";
+export const HERO_TITLE = "2024 WORKSHOP";
 export const HERO_CONTENT = "When Spatio-Temporal Data Meet LLMs and Foundation Models";
 
 export const INTRO_TITLE = "Introduction";
