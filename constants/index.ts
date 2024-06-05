@@ -1,6 +1,6 @@
 
 export const HERO_TITLE = "2024 WORKSHOP";
-export const HERO_CONTENT = "When Spatio-Temporal Data Meet LLMs and Foundation Models";
+export const HERO_CONTENT = "When Spatio-Temporal Data Meets LLMs and Foundation Models";
 
 export const INTRO_TITLE = "Introduction";
 export const INTRO_CONTENT = "The rapid advancements in Large Language Models (LLMs) and Foundation Models (FMs) have presented unprecedented capabilities in understanding and generating human languages. The success of LLMs/FMs has also resulted in many new research directions in the AI and machine learning community. One major direction is the integration of LLMs with spatio-temporal data. LLMs can provide strong semantic reasoning to enhance the analysis of spatio-temporal data. By combining LLMs with spatio-temporal analysis, we can unlock new insights and develop more robust models for applications ranging from smart city applications and climate science to mobility simulation for epidemiology. Enabling LLMs to better understand the patterns in spatio-temporal data from various and ubiquitous sensors (such as IoT devices, healthcare, wearable devices, and smart vehicles) is also a crucial step towards achieving Artificial General Intelligence.\n\n" +
